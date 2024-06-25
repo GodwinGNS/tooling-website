@@ -33,5 +33,4 @@ Basic knowledge of Network-attached storage (NAS), Storage Area Networks (SAN), 
 Knowledge of Block-level storage and how it is used on the Cloud.
 Architecture
 
-We will be implementing a solution that comprises multiple web servers sharing a common database and also accessing the same files using Network File System (NFS) as shared file storage.
-
+We will be implementing a solution that comprises multiple web servers sharing a common database and also accessing the same files using Network File System (NFS) as shared file storage.....
